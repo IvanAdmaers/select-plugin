@@ -15,5 +15,5 @@
 ## Features
 
   * Animation
-  * Keyboard controll
+  * Keyboard control
   * Autocomplete
